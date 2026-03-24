@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Fender Stratocaster",
-    "description": "Электрогитара с классическим звучанием синглов",
+    "description": "Р­Р»РµРєС‚СЂРѕРіРёС‚Р°СЂР° СЃ РєР»Р°СЃСЃРёС‡РµСЃРєРёРј Р·РІСѓС‡Р°РЅРёРµРј СЃРёРЅРіР»РѕРІ",
     "price": 1200,
     "category": "guitars",
     "available": true
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "name": "Yamaha P-125",
-    "description": "Цифровое пианино с взвешенной клавиатурой",
+    "description": "Р¦РёС„СЂРѕРІРѕРµ РїРёР°РЅРёРЅРѕ СЃ РІР·РІРµС€РµРЅРЅРѕР№ РєР»Р°РІРёР°С‚СѓСЂРѕР№",
     "price": 800,
     "category": "keyboards",
     "available": true
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "name": "Pearl Roadshow Drum Set",
-    "description": "Барабанная установка из 5 элементов для начинающих",
+    "description": "Р‘Р°СЂР°Р±Р°РЅРЅР°СЏ СѓСЃС‚Р°РЅРѕРІРєР° РёР· 5 СЌР»РµРјРµРЅС‚РѕРІ РґР»СЏ РЅР°С‡РёРЅР°СЋС‰РёС…",
     "price": 600,
     "category": "drums",
     "available": false
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "name": "Shure SM58",
-    "description": "Динамический вокальный микрофон",
+    "description": "Р”РёРЅР°РјРёС‡РµСЃРєРёР№ РІРѕРєР°Р»СЊРЅС‹Р№ РјРёРєСЂРѕС„РѕРЅ",
     "price": 120,
     "category": "microphones",
     "available": true
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "name": "Boss DS-1 Distortion",
-    "description": "Гитарная педаль дисторшна",
+    "description": "Р“РёС‚Р°СЂРЅР°СЏ РїРµРґР°Р»СЊ РґРёСЃС‚РѕСЂС€РЅР°",
     "price": 90,
     "category": "effects",
     "available": true
