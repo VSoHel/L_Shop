@@ -2,8 +2,7 @@ import { readJSON, writeJSON } from '../utils/fileStorage';
 import { User } from '../types/user.types';
 import { v4 as uuid } from 'uuid';
 
-const USERS_PATH = './src/data/users.json';
-
+const USERS_PATH = '../database/users.json';
 export const registerUser = (data: Omit<User, 'id'>): User => {
     const users: User[] = readJSON(USERS_PATH);
     const newUser: User = {

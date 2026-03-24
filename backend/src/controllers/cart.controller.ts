@@ -2,8 +2,9 @@ import { Request, Response } from 'express';
 import { readJSON, writeJSON } from '../utils/fileStorage';
 import { Cart, CartItem } from '../types/cart.types';
 import { v4 as uuid } from 'uuid';
+import path from 'path';
 
-const ORDERS_PATH = './src/data/orders.json';
+const ORDERS_PATH = '../database/orders.json';
 
 interface AddToCartBody {
     productId: string;
