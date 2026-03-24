@@ -1,7 +1,7 @@
 import { readJSON } from '../utils/fileStorage';
 import { Product } from '../types/product.types';
 
-const PRODUCTS_PATH = './src/data/products.json';
+const PRODUCTS_PATH = '../database/products.json';
 
 export const getAllProducts = (): Product[] => {
   return readJSON(PRODUCTS_PATH);
