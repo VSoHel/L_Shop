@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Fender Stratocaster",
+    "description": "Ёлектрогитара с классическим звучанием синглов",
+    "price": 1200,
+    "category": "guitars",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Yamaha P-125",
+    "description": "÷ифровое пианино с взвешенной клавиатурой",
+    "price": 800,
+    "category": "keyboards",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Pearl Roadshow Drum Set",
+    "description": "Ѕарабанна€ установка из 5 элементов дл€ начинающих",
+    "price": 600,
+    "category": "drums",
+    "available": false
+  },
+  {
+    "id": "4",
+    "name": "Shure SM58",
+    "description": "ƒинамический вокальный микрофон",
+    "price": 120,
+    "category": "microphones",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Boss DS-1 Distortion",
+    "description": "√итарна€ педаль дисторшна",
+    "price": 90,
+    "category": "effects",
+    "available": true
+  }
+]
