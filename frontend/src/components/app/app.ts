@@ -1,4 +1,4 @@
-import { Article, Source, NewsResponse } from '../../types';
+import { Article, Source, NewsResponse } from '../../backend/src/types';
 import AppController from '../controller/controller';
 import AppView from '../view/appView';
 

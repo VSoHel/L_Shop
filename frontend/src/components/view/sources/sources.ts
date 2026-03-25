@@ -1,4 +1,4 @@
-import { Article, Source, NewsResponse } from '../../../types';
+import { Article, Source, NewsResponse } from '../../../backend/src/types';
 import './sources.css';
 class Sources {
     draw(data: Source[]): void {

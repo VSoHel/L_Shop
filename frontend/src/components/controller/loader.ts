@@ -1,4 +1,4 @@
-import { LoaderOptions, RequestParams } from '../../types';
+import { LoaderOptions, RequestParams } from '../../backend/src/types';
 class Loader {
     baseLink: string;
     options: LoaderOptions;

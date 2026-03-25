@@ -1,5 +1,5 @@
 
-import { NewsResponse, SourcesResponse } from '../../types';
+import { NewsResponse, SourcesResponse } from '../../backend/src/types';
 import AppLoader from './appLoader';
 class AppController extends AppLoader {
     getSources(callback: (data: SourcesResponse) => void): void {

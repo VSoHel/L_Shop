@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "include": ["src", "LR_TS/src/index.ts", "LR_TS/src/components/declarations.d.ts", "LR_TS/src/types.ts", "LR_TS/src/components/app/app.ts", "LR_TS/src/components/controller/appLoader.ts", "LR_TS/src/components/controller/controller.ts", "LR_TS/src/components/controller/loader.ts", "LR_TS/src/components/view/appView.ts", "LR_TS/src/components/view/news/news.ts", "LR_TS/src/components/view/sources/sources.ts"]
+}
